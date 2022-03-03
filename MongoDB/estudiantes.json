@@ -1,0 +1,26 @@
+[
+    {
+        "nombre":"sebasian",
+        "apellido":"lopez",
+        "telefono":"6542130",
+        "email":"Slopez@gmail.com"
+    },
+    {
+        "nombre":"Ana",
+        "apellido":"Castaño",
+        "telefono":"4563287",
+        "email":"Acastaño@gmail.com"
+    },
+    {
+        "nombre":"Kevin",
+        "apellido":"Mesa",
+        "telefono":"97546012",
+        "email":"Kmesa@gmail.com"
+    },
+    {
+        "nombre":"Sara",
+        "apellido":"Gil",
+        "telefono":"84562165",
+        "email":"Sgil@gmail.com"
+    }
+ ]
